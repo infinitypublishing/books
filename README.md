@@ -14,8 +14,6 @@ Infinity Publishing Books
 ├── Philosophy
 │   ├── Aristotle
 │   ├── Barendregt
-│   ├── Beltrami
-│   ├── Frege
 │   ├── Grothendieck
 │   ├── Heyting
 │   ├── Hilbert
@@ -24,7 +22,6 @@ Infinity Publishing Books
 │   ├── Martin-Löf
 │   ├── Poincaré
 │   ├── Russel
-│   ├── Tarski
 │   └── Yogachara
 └── Pure Mathematics
     ├── Algebra
