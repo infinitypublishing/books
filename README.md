@@ -7,7 +7,7 @@ Infinity Publishing Books
 │   ├── Calculus
 │   ├── Continued Fractions
 │   ├── Differential Equations
-│   └── Symbolic Comutations
+│   └── Symbolic Computations
 ├── Computer Science
 │   ├── Dependent Type Theory
 │   └── Lambda Calculus
